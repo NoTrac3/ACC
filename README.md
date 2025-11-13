@@ -8,7 +8,7 @@ You know how it goes... you see a spam link, you ban it, and tomorrow there's an
 
 Most bots make you manually ban every single domain. That's like trying to stop a flood with a teacup. With ACC, when you blacklist one domain, you're actually protecting your server from an entire network of related threats.
 
-- INVITE: https://discord.com/oauth2/authorize?client_id=1394773078914891897&permissions=8&integration_type=0&scope=bot
+- __INVITE__: https://discord.com/oauth2/authorize?client_id=1394773078914891897&permissions=8&integration_type=0&scope=bot
 
 ### **How It Works in Plain English**
 
